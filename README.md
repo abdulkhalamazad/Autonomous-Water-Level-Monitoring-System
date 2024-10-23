@@ -11,6 +11,6 @@ The Autonomous Water Level Monitoring System uses an ESP8266 and Blynk app to tr
 - There is a virtual ON/OFF button on the smartphone, which you can use for manually controlling the motor. (if motor is ON you can turn OFF the motor by pressing the button and vice versa. if the water level is a 0% or 100% don't try to press the button as this will cause rapid toggling of the state of the motor.)
  ## Setting Up
  ### Blynk Setup
- - First create an account on [blynk.io](blynk.io)
+ - First create an account on [blynk.io](https://blynk.io/)
  
 
