@@ -29,7 +29,7 @@ The Autonomous Water Level Monitoring System uses an ESP8266 and Blynk app to tr
 ### Circuit Setup
 - Connect the circuit as shown in the diagram.
 - If you don't want to remove the physical switch, you can do the bypass method for both normal and dipole switches. (Switch's input to relay's input and switch's output to relay's output.)
-- I have used several pullup and pulldown resistors of 10k to make sure no noise are being picked up.
+- I have used several pullup and pulldown resistors of 10k to avoid floating of terminals and to make sure no noise are being picked up.
 ### General Setup
 - Try to provide a basic ventillation for dissipation of heat, SSRs may generate heat during opration.
 - Try to place the device where the signal strength is above average (-55 to -75 dBm atleast).
